@@ -46,7 +46,7 @@ Construire un **dashboard interactif** pour analyser la performance commerciale 
 - Visualisation : KPI cards, waterfall, filtres dynamiques, bridge CA.
 
 ###  Résultats
-- Suivi automatisé de ~120M€ de CA.  
+- Suivi automatisé de ~110M€ de CA.  
 - Mise en évidence d’une **marge brute de 42 %** et d’une croissance YoY de **+15 %**.  
 - Identification des clients stratégiques via un dashboard interactif.
 
